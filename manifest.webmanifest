@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "امیدوار | OMIDWAR",
+  "short_name": "امیدوار",
+  "description": "پنل آنلاین مدیریت محصلان، نمرات و پیامک",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#142b4a",
+  "icons": [
+    {
+      "src": "/static/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/static/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
